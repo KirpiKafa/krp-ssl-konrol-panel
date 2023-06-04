@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domains>
+  <domain>
+    <name>google.com</name>
+    <startDate>19 May 2023 12:53</startDate>
+    <endDate>11 Aug 2023 12:53</endDate>
+    <remainingDays>68</remainingDays>
+  </domain>
+  <domain>
+    <name>sys.com.tr</name>
+    <startDate>04 May 2023 11:38</startDate>
+    <endDate>02 Aug 2023 11:38</endDate>
+    <remainingDays>58</remainingDays>
+  </domain>
+  <domain>
+    <name>facebook.com</name>
+    <startDate>13 Mar 2023 00:00</startDate>
+    <endDate>11 Jun 2023 23:59</endDate>
+    <remainingDays>7</remainingDays>
+  </domain>
+</domains>

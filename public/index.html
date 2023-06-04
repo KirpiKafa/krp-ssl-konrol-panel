@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SSL Kontrol Paneli</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="header">
+    <h1>SSL KONTROL PANELİ</h1>
+  </div>
+  <div id="form-container">
+    <input type="text" id="domain-input" placeholder="Domain adını girin">
+    <button id="domain-ekle">Ekle</button>
+  </div>
+  <table id="domain-table">
+    <thead>
+      <tr>
+        <th>Domain Adı</th>
+        <th>Geçerlilik Başlangıcı</th>
+        <th>Geçerlilik Bitişi</th>
+        <th>Kalan Gün</th>
+        <th>İşlemler</th>
+      </tr>
+    </thead>
+    <tbody id="domain-table-body"></tbody>
+  </table>
+  <script src="script.js"></script>
+</body>
+</html>
